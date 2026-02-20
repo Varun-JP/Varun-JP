@@ -8,10 +8,3 @@
 </p>
 
 ---
-
-### 🎵 Currently Jamming To
-<p align="left">
-  <a href="https://github.com/ashutosh00710/spotify-stats">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31twjfuvn36k3eflthiqjxuicplq&cover_image=true&theme=dark" />
-  </a>
-</p>
