@@ -9,9 +9,4 @@
 
 ---
 
-### 🎵 Currently Jamming To
-<p align="left">
-  <a href="https://github.com/novatorem/novatorem-spotify-readme">
-    <img src="https://novatorem-spotify-readme.vercel.app/api/run?username=31twjfuvn36k3eflthiqjxuicplq" alt="Spotify" width="350" />
-  </a>
-</p>
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31twjfuvn36k3eflthiqjxuicplq)
