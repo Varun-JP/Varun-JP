@@ -9,4 +9,9 @@
 
 ---
 
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31twjfuvn36k3eflthiqjxuicplq)
+### 🎵 Currently Jamming To
+<p align="left">
+  <a href="https://github.com/ashutosh00710/spotify-stats">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31twjfuvn36k3eflthiqjxuicplq&cover_image=true&theme=dark" />
+  </a>
+</p>
